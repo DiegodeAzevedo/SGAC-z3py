@@ -7,7 +7,7 @@ For example, changing the number of contexts, we have tests for 10, 20 and 30 co
 
 Alloy tests are available separately inside a folder named alloy followed by a number indicating the test number. For example, alloy1 inside 10contexts folder contains the first test set with 10contexts. 
 ProB machines are available directly on the folder. For example, inside 10contexts folder we find SGAC_B_1.mch which contains the first machine for test with 10contexts.
-Z3 specifications are avaible directly on the folder. For example, inside 10contexts folder there is SGAC_Z3_1_MODEL1.txt which contains the first stage for the Z3 model. The next stage for the model may be found while adding one to the last digit. So the stage is SGAC_Z3_1_MODEL2.txt.
+Z3 specifications are avaible directly on the folder. For example, inside 10contexts folder there is SGAC_Z3_1_MODEL1.txt which contains the first stage for the Z3 model. The next stage for the model may be found while adding one to the last digit. So the second stage is SGAC_Z3_1_MODEL2.txt.
 
 The folder also contain a file SGAC_random_number.text where number varies from one to the number of experiments. It contains the random generated dataset.
 
